@@ -34,7 +34,7 @@ public static void main(String[] args) {
 		System.out.println("Enter two numbers to be multiplied");
 		num1=sc.nextInt();
 		num2=sc.nextInt();
-		result= num1+num2;
+		result= num1*num2;
 		System.out.println("The result is "+ result);
 		
 	case 4:
